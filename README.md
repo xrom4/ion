@@ -135,6 +135,20 @@ function()
         print("FALSE")
    function()
    
+   ## Задание 12
+   
+   def function():
+    a = input()
+    b = input()
+    c = 0
+    for i in a:
+        c = с * i
+    for z in b:
+        c = c * z
+    print(c)
+function()
+
+   
    ## Задание 14
      def function():
     list = []
