@@ -22,8 +22,8 @@
     function()
 
 
-   #Задание 3
-   def function():
+    #Задание 3
+    def function():
     count = 0
     list = input()
     for i in "ауеюэияо":
@@ -32,3 +32,24 @@
     function()
     
     #Задание 4
+    def function():
+    list1 = input()
+    list2 = input()
+    text = ''.join(reversed(list2))  #join(), объединяющий все символы, полученные в результате обратной итерации в новой строке.
+    if list1 == text:
+        print("TRUE")
+    else:
+        print("FALSE")
+function()
+
+    #Задание 5
+    def function():
+    str1 = input()
+    str2 = input()
+    if str1 in str2:
+        print("TRUE")
+    elif str2 in str1:
+        print("TRUE")
+    else:
+        print("FALSE")
+       function()
