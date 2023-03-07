@@ -164,8 +164,30 @@ function()
         return number
     else:
         return number * factorial(number - 1)
-print(factorial(int(input('Введите число: '))))
+        print(factorial(int(input('Введите число: '))))
 
 
     #Задание 17
+    
+    
+    
+    def function():
+    l = input()
+    for i in l:
+        print(i)
+function()
+
+
+
+    #Задание 18
+    
+    def function():
+    a = []
+    n = int(input())
+    for i in range(n):
+        x = int(input())
+        a.append(x)
+    for z in a:
+        print(z)
+function()
      
