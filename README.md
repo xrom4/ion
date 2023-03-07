@@ -1,7 +1,7 @@
 # 
 
 
-     #Задание 1
+     ##Задание 1
     def function():
     a = int(input("Введите первый аргумент"))
     b = int(input("Введите второй аргумент"))
@@ -11,7 +11,7 @@
     
     
     
-    #Задание 2.
+    ##Задание 2.
     def function():
     list = []
     a = 5
@@ -22,7 +22,7 @@
     function()
 
 
-    #Задание 3
+    ##Задание 3
     def function():
     count = 0
     list = input()
@@ -31,7 +31,7 @@
     print(count)
     function()
     
-    #Задание 4
+    ##Задание 4
     def function():
     list1 = input()
     list2 = input()
@@ -42,7 +42,7 @@
         print("FALSE")
 function()
 
-    #Задание 5
+    ##Задание 5
     def function():
     str1 = input()
     str2 = input()
@@ -54,7 +54,7 @@ function()
         print("FALSE")
        function()
        
-    #Задание 6
+    ##Задание 6
     def function():
     list1 = input()
     list2 = input()
@@ -66,7 +66,7 @@ function()
     function()
      
       
-    #Задание 7
+    ##Задание 7
     def function():
     a = int(input())
     b = int(input())
@@ -82,7 +82,7 @@ function()
 function()
 
 
-    #Задание 8
+    ##Задание 8
     def function():
     a = int(input())
     b = int(input())
@@ -98,7 +98,7 @@ function()
 function()
 
 
-    #Задание 9
+    ##Задание 9
     def function():
     str1 = input()
     str2 = input()
@@ -113,7 +113,7 @@ function()
         print("FALSE")
   function()
   
-    #Задание 10
+    ##Задание 10
     def function():
     str1 = input()
     str2 = input()
@@ -130,7 +130,7 @@ function()
     
     
     
-     #Задание 11
+     ##Задание 11
      def function():
     str1 = input()
     str2 = input()
@@ -140,7 +140,7 @@ function()
         print("FALSE")
    function()
    
-     #Задание 14
+     ##Задание 14
      def function():
     list = []
     str1 = input()
@@ -150,7 +150,7 @@ function()
 function()
 
 
-     #Задание 15 
+     ##Задание 15 
      def function():
     a = {1:'peanut', 2:'butter', 3:'jelly', 4:'time'}
     b = {5:'fish', 6:'chips'} 
@@ -158,7 +158,7 @@ function()
     print(x)
 function()
 
-    #Задание 16
+    ##Задание 16
     def factorial(number):
     if number == 1:
         return number
@@ -167,7 +167,7 @@ function()
         print(factorial(int(input('Введите число: '))))
 
 
-    #Задание 17
+    ##Задание 17
     
     
     
@@ -179,7 +179,7 @@ function()
 
 
 
-    #Задание 18
+    ##Задание 18
     
     def function():
     a = []
